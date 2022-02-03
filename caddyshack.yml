@@ -1,0 +1,3 @@
+port: ":7878"
+domains:
+  - "example.com"
